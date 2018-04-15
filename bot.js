@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+const Discord = require('discord.js');//lllll
 const client = new Discord.Client();//fffff
 client.on('ready', () => {
 console.log('Logging into discord..');
